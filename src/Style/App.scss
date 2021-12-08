@@ -1,0 +1,28 @@
+:root {
+  font-size: 62.5%;
+  background-color: blue;
+}
+
+* {
+  margin: 0rem;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.wrapper {
+  background-image: url("../images/Background/starry-night.png");
+  margin-top: 30px;
+  height: 600px;
+  width: 140vw;
+}
+
+.character {
+  position: inherit;
+
+  width: 10rem;
+  height: fit-content;
+  margin-left: 0%;
+  margin-top: 18%;
+  padding: 0%;
+}
