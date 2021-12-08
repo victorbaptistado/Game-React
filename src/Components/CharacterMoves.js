@@ -4,17 +4,7 @@ import { useState,useEffect } from 'react';
 
 const CharacterMoves = () => {
 
-    useEffect(()=>
-    setHorizontal(
-    function caralho (){
-        if(setHorizontal === "l"){
-            alert("nice")
-        }
-    }
-    )
-    ,[]);
-
-
+ 
 
 
    

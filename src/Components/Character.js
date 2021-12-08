@@ -1,30 +1,37 @@
 import React from 'react';
 import characterImage from "../images/Characters/Dead__000.png";
 import CharacterMoves from './CharacterMoves';
-import { useState, useEffect } from 'react';
+import { useState, useRef, usePrevious } from 'react';
+import { useEffect } from 'react/cjs/react.development';
 
 const Character = () => {
 
 
 
-    const [horizontal, setHorizontal] = useState("");
+    const [horizontal, setHorizontal] = useState(0);
 
-
-
-    
+   
+    const prevCount = useRef()
+   
     function go(event){
- 
+      
+       
         setHorizontal(
+        
         function handle(){
-            let move = 0;
-
+        prevCount.current = horizontal;
         if(event.key == "d")
-        return move + 10;
+        return horizontal + 0.3;
 
         else if(event.key == "a")
-        return 0;
+        return horizontal - 0.3;
+        else return horizontal;
         }
-        )}
+       
+    
+    
+        )  }
+
   
     return ( 
         <div tabindex="0" onKeyPress={go} >
