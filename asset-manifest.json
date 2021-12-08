@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Game-React/static/css/main.aa0123d4.chunk.css",
+    "main.js": "/Game-React/static/js/main.861190ff.chunk.js",
+    "main.js.map": "/Game-React/static/js/main.861190ff.chunk.js.map",
+    "runtime-main.js": "/Game-React/static/js/runtime-main.28ea093e.js",
+    "runtime-main.js.map": "/Game-React/static/js/runtime-main.28ea093e.js.map",
+    "static/js/2.4d674843.chunk.js": "/Game-React/static/js/2.4d674843.chunk.js",
+    "static/js/2.4d674843.chunk.js.map": "/Game-React/static/js/2.4d674843.chunk.js.map",
+    "static/js/3.f12437d2.chunk.js": "/Game-React/static/js/3.f12437d2.chunk.js",
+    "static/js/3.f12437d2.chunk.js.map": "/Game-React/static/js/3.f12437d2.chunk.js.map",
+    "index.html": "/Game-React/index.html",
+    "static/css/main.aa0123d4.chunk.css.map": "/Game-React/static/css/main.aa0123d4.chunk.css.map",
+    "static/js/2.4d674843.chunk.js.LICENSE.txt": "/Game-React/static/js/2.4d674843.chunk.js.LICENSE.txt",
+    "static/media/Dead__000.c2b797e5.png": "/Game-React/static/media/Dead__000.c2b797e5.png",
+    "static/media/App.css": "/Game-React/static/media/starry-night.831d41ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ea093e.js",
+    "static/js/2.4d674843.chunk.js",
+    "static/css/main.aa0123d4.chunk.css",
+    "static/js/main.861190ff.chunk.js"
+  ]
+}
