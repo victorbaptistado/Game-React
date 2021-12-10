@@ -5,7 +5,7 @@ const Background = () => {
     return (
         <div className="wrapper" >
 
-    <Character/>
+        <Character/>
 
         </div>
     )
